@@ -2,7 +2,7 @@
 
 # this is a very simple exercise 
 
-This is a very simple exercise to racall just one of the various way of interacting with python 3d list. (This is the way for a c/c++ user who does not know a lot of python libraries)
+This is a very simple exercise to racall just one of the various way of interacting with python 3d list (this is the way for a c/c++ user who does not know a lot of python libraries).
 
 The performed task is the one requested by the person asking me for this guide.
 
